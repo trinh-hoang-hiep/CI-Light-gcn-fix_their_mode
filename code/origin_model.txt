@@ -1,0 +1,10 @@
+>>SEED: 2020
+===========================load pre start , at stage 29===================================
+Loader_pre all graph reday at stage: 0-29 size: 744865 ,used time 1.2017886638641357
+Loader_hat at stage : 29 , 744865 interactions for train , 25685 interactions for test
+===========================load data is ready ,used time : 11.654871225357056 s ===================================
+use xavier initilizer
+successfully loaded all graph...
+all adjacency matrix done use time :2.8748466968536377
+####################LGCN_base has already trained at 0-28 and saved at ./checkpoints/static_base_LightGCN_gowalla-3-64-28.npy-.pth.tar ##########################
+===========================load data start , at stage 30===================================

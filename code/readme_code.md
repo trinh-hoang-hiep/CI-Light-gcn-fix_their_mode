@@ -1,0 +1,1 @@
+Please download the code files from ```https://github.com/Dingseewhole/CI_LightGCN_maste```. The checkpoints is already here.
